@@ -2,6 +2,8 @@ kalra
 dal
 rice
 
+beans
+pizza
 
 
 thank you 
